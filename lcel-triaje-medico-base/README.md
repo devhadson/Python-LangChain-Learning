@@ -231,7 +231,7 @@ La aplicación de Triaje Médico Automatizado optimiza la atención preliminar m
 
 ---
 *Documentación elaborado por [Hadson Paredes](https://www.linkedin.com/in/hadson-paredes/) - 2026*
-- Repositorio [Python-LangChain-Learning](https://github.com/devhadson/Python-LangChain-Learning)
+- Repositorio [Python-LangChain-Learning](https://github.com/devhadson/Python-LangChain-Learning/tree/main/lcel-triaje-medico-base)
 - Disponible como curso en [Hadson.Tech](https://hadson.tech/cursos-disponibles/python-langChain)
 
 <hr>
