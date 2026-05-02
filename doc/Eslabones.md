@@ -1,0 +1,3 @@
+En LangChain, los eslabones (generalmente llamados **Chains** o Cadenas) son **componentes fundamentales que permiten conectar múltiples elementos para crear flujos de trabajo automatizados y complejos con Modelos de Lenguaje Grande** (LLMs).
+
+Piensa en ellos como los pasos de una receta o una tubería (_pipeline_) donde la salida de un componente se convierte automáticamente en la entrada del siguiente. 

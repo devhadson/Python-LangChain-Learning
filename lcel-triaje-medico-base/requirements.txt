@@ -1,0 +1,6 @@
+# Librerías necesarias para ejecutar la aplicación en tu entorno Python.
+langchain
+langchain-core
+langchain-community
+pydantic
+python-dotenv
