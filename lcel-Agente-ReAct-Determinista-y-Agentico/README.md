@@ -65,7 +65,7 @@ Para elevar el nivel del código a un estándar de producción con **LangChain**
 ### Desarrollo del agente de Triaje y Conciliación de Medicamentos y Diagnóstico según ReAct
 Este diseño permite que el sistema mantenga la **seguridad** de las reglas clínicas fijas mientras aprovecha la **flexibilidad** de la IA para conectar puntos de datos complejos en el diagnóstico.
 
-[Código Fuente disponible](lcel-Agente-ReAct-Determinista-y-Agentico.ipynb)
+[Código Fuente disponible Jupyter Notebook](lcel-Agente-ReAct-Determinista-y-Agentico.ipynb)
 
 > [!IMPORTANT]  
 > Las herramientas permiten al agente "leer" y "aprender" del contexto del paciente.
@@ -242,14 +242,13 @@ Finalmente, el agente realiza una **Conciliación Clínica**: cruza la informaci
 ---
 
 *Documentación elaborado por [Hadson Paredes](https://www.linkedin.com/in/hadson-paredes/) - 2026*
-- Repositorio [Python-LangChain-Learning](https://github.com/devhadson/Python-LangChain-Learning/blob/main/lcel-Agente-ReAct-Determinista-y-Agentico/lcel-Agente-ReAct-Determinista-y-Agentico.ipynb)
+- Repositorio [Python-LangChain-Learning](https://github.com/devhadson/Python-LangChain-Learning/blob/main/lcel-Agente-ReAct-Determinista-y-Agentico/README.md)
 - Disponible como curso en [Hadson.Tech](https://hadson.tech/cursos-disponibles/python-langChain)
 
 <hr>
-<h4 align="center"> Publicaciones en mis redes sociales y repositorio GitHub</h4>
-
 <div align="center">
-  <h3>Sígueme en mis redes sociales</h3>
+Publicaciones en mis redes sociales y repositorio GitHub<br>
+<strong>Sígueme en mis redes sociales</strong><br><br>
   <a href="https://github.com/devhadson">
     <img src="https://img.shields.io/badge/GitHub-devhadson-black?logo=GitHub&style=flat-square" target="_blank" alt="GitHub">
   </a>
